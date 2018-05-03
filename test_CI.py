@@ -6,7 +6,7 @@ class TestCI(unittest.TestCase):
 	def setUp(self):
 		print("some text")
 
-	def test_search_in_python_org(self)
+	def test_search_in_python_org(self):
 		print("some more text")
 
 	def tearDown(self):
